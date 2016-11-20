@@ -1,5 +1,5 @@
 # build_ejabberd_env_bash
-A bash shell that make ejabberd development environment.
+A bash shell that make ejabberd development environment. This script has checked on ubuntu 16.04.
 
 
     sudo su
